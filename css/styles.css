@@ -1,6 +1,23 @@
-H1{
-    background-color: pink;
-    text-decoration-style: wavy;
-    text-align:center;
+div {
+    cursor:wait;
 }
-
+h1 {
+    background-color: lightgray;
+    color: black;
+    text-decoration: underline pink;
+    text-decoration-style:solid;
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+}
+h2 {
+    background-color: lightgray;
+    background-size:auto;
+    color: black;
+    text-decoration: underline pink;
+    text-decoration-style:solid;
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+}
+img {
+    border:2px solid black;
+}
