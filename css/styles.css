@@ -2,14 +2,22 @@ div.Title {
     cursor:wait;
     background-color: lightgray;
 }
+body {
+    background-color: blueviolet;
+}
+html {
+    cursor:wait;
+}
+
 div {
     cursor:grab;
     background-color: pink;
+    border: solid 4px black;
 }
 h1 {
     background-color: lightgray;
     color: black;
-    text-decoration: underline pink;
+    text-decoration: underline black;
     text-decoration-style:solid;
     text-align:center;
     font-family:'Times New Roman', Times, serif;
